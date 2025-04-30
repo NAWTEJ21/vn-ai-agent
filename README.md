@@ -102,11 +102,11 @@ This agent can intelligently interact with external tools, deliver real-time str
 
 -[Shadcn/UI](https://ui.shadcn.com/docs/installation/next),
 
--[LangChain](https://python.langchain.com/v0.1/docs/get_started/quickstart/) (Your model should be compatible wuth this , check its docs to verify and initialize model)
+-[LangChain](https://python.langchain.com/v0.1/docs/get_started/quickstart/) (Your model should be compatible with this , check its docs to verify and initialize model)
 
 -[Clerk account (auth)](https://clerk.com/)
 
-- [Sign up for Convex account (database)](https://www.convex.dev/signup)
+-[Sign up for Convex account (database)](https://www.convex.dev/signup)
 
 -[IBM WxFlows account (tools)](https://wxflows.ibm.stepzen.com/)
 
