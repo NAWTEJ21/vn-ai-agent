@@ -1,5 +1,6 @@
-NV AI is a powerful, production-ready AI Agent built using cutting-edge technologies: Next.js 15, React 19, LangChain, LangGraph, IBM WxFlows, Clerk, Convex, and OpenAI.
+🤖 NV AI Agent – Tool-Augmented AI Built with Next.js 15, LangChain, IBM, Clerk, and Convex
 
+NV AI is a powerful, production-ready AI Agent built using cutting-edge technologies: Next.js 15, React 19, LangChain, LangGraph, IBM WxFlows, Clerk, Convex, and OpenAI.
 This agent can intelligently interact with external tools, deliver real-time streaming responses, and operate through a modern, dynamic chat interface — built for real-world AI applications.
 
 🚀 Features
