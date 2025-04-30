@@ -6,25 +6,15 @@ This agent can intelligently interact with external tools, deliver real-time str
 🚀 Features
 
 🤖 Advanced AI chat interface powered by OpenAI 
-
 🎨 Modern, responsive UI with Tailwind CSS
-
 🔐 Authentication via Clerk with Passkey support
-
 💾 Real-time database with Convex
-
 ⚡ Built using Next.js 15 + React 19
-
 🌊 Live token streaming with custom implementation
-
 📱 Fully mobile-friendly design
-
 🧠 Prompt caching for optimized token usage
-
 🔧 Intelligent tool orchestration with LangGraph
-
 🔄 Real-time updates & tool execution feedback
-
 📚 Seamless IBM WxFlows integration for data/tool APIs
 
 🧱 Tech Stack
@@ -41,49 +31,35 @@ This agent can intelligently interact with external tools, deliver real-time str
 
 🧠 AI & Prompt Management :-
 Prompt Caching: Optimized token usage with custom caching logic.
-
 Context Window: Smart 4K token context handling.
-
 Tool-Augmented Replies: AI responses enhanced with integrated tools.
-
 Context-Aware Conversations: Dynamically managed context and message history.
 
 
 🧰 Tool Integration via IBM WxFlows :-
 One-click tool creation from APIs
-
 YouTube transcript integration
-
 Google Books API support
-
 Custom data source tooling
 
 
 🕸️ LangChain + LangGraph Features :-
 📊 StateGraph: Smart and modular state management
-
 🔧 ToolNode: Tool orchestration with contextual awareness
-
 🧠 MemorySaver: Efficient memory management
-
 ✂️ Message Trimming: Maintains conversation quality
 
 
 🔄 Streaming Implementation :-
 ✅ Live token streaming from OpenAI
-
 🔧 Real-time feedback on tool execution
-
 ⚠️ Built-in error handling for tool failures
-
 🚧 LangChainAdapter workarounds
 
 
 📡 Real-Time Features
 ⚡ Live message delivery and sync
-
 🔍 Real-time tool interaction visualization
-
 🕓 Efficient message history management
 
 
